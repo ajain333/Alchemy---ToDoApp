@@ -1,0 +1,5 @@
+{
+  "name": "Checkmate - ToDo Manager",
+  "description": "A modern, assistant-style to-do checklist for efficient organization of personal and work tasks, with simulated Google Sheet persistence. All task data is managed locally using browser storage for demonstration purposes.",
+  "requestFramePermissions": []
+}
